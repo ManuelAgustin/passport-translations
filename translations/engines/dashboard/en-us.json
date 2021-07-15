@@ -51,12 +51,13 @@
       "request_and_become": "Request an invite and evolve to Visitor",
       "request_invite": "Request an invite"
     },
-    "visitor-banner": {
+    "recovery-kit": {
       "safety_first": "Safety first!",
       "generate": "Generate a Recovery Kit",
       "recovery": "Sometimes even passwords need to be regenerated. Here are the tools to help you do that if you ever lose your Global Passport password.",
       "secret_words": "if you loose the 12 secret words or the recovery kit you will lose your account irreversibly",
-      "generate_kit": "Generate Kit"
+      "generate_kit": "Generate Kit",
+      "skip": "No Thanks"
     }
   },
   "available_seeds": "Available Seeds",

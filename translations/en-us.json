@@ -365,6 +365,14 @@
     "error": {
       "title": "Error!",
       "message": "There was an error generating the recovery kit. Please try again."
+    },
+    "notification": {
+      "safety_first": "Safety first!",
+      "generate": "Generate a Recovery Kit",
+      "recovery": "Sometimes even passwords need to be regenerated. Here are the tools to help you do that if you ever lose your Global Passport password.",
+      "secret_words": "If you loose the 12 secret words or the recovery kit you will lose your account irreversibly",
+      "generate_kit": "Generate Kit",
+      "skip": "No Thanks"
     }
   },
   "posts": {
