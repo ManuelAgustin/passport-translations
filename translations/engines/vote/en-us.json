@@ -373,6 +373,22 @@
         "message": "Your voting intention could not been cast."
       }
     },
+    "congratulations": {
+      "title": "Congratulations!",
+      "subtitle": "The proposal has been staked!",
+      "buttons": {
+        "details": "See proposal",
+        "dashboard": "Dashboard"
+      },
+      "success": {
+        "title": "Congratulations!",
+        "message": "The proposal has been staked!"
+      },
+      "error": {
+        "title": "Error!",
+        "message": "Could not stake proposal. Please try later!"
+      }
+    },
     "voteAction": {
       "success": {
         "title": "Success",
