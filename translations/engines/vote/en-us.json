@@ -363,6 +363,8 @@
       "nextProposal": "Vote on next proposal",
       "lastProposal": "Close and use trust tokens!",
       "stakeButton": "Stake",
+      "collapseText": "Collapse description",
+      "readMore": "Read more",
       "commentsTitle": "Most recent comments",
       "success": {
         "title": "Pre-cast Vote",
