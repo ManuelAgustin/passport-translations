@@ -95,7 +95,7 @@
     "game_of_seeds": "Game of SEEDS",
     "game_of_seeds_dashboard": "Dashboard",
     "community": "Community",
-    "organization": "Organisation / Business",
+    "organization": "Organisation/Business",
     "invite_friends": "Invite a Friend",
     "gos": "Game of Seeds",
     "vouch_for_friend": "Vouch for a Friend",
@@ -114,6 +114,7 @@
     "sign_up": "Sign Up",
     "recover_password": "Recover Password",
     "redeem_invite": "Redeem an Invite",
+    "progress_description": "Your path to",
     "account_switcher": {
       "change_account": "Change Account",
       "change_account_expanded": "Change Account",
@@ -122,7 +123,8 @@
         "unlink": "Unlink",
         "unlinking": ""
       }
-    }
+    },
+    "app_version": "Global passport v"
   },
   "vote": {
     "byAuthor": "by {author}",
