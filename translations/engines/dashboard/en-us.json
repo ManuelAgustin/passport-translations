@@ -25,6 +25,10 @@
       },
       "ecosystem": {
         "label": "Ecosystem"
+      },
+      "general": {
+        "timeline_title": "Recent Activity",
+        "button_title": "Load More"
       }
     },
     "citizenship-path": {
