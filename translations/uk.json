@@ -1,9 +1,9 @@
 {
     "general": {
-        "available": "",
-        "planted": "",
+        "available": "Доступно",
+        "planted": "Посаджено",
         "unplanted": "",
-        "harvested": "",
+        "harvested": "Зібрано",
         "unplanting": "",
         "guest": "",
         "visitor": "",
