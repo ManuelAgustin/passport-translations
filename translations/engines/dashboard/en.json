@@ -24,7 +24,12 @@
         "label": "Chart"
       },
       "ecosystem": {
-        "label": "Ecosystem"
+        "label": "Ecosystem",
+        "market_capacity": "Market capacity",
+        "circulating_supply": "Circulating supply",
+        "growth_circulating": "Growth in circulating supply",
+        "growth_personal": "Growth in personal accounts",
+        "growth_transactions": "Growth in transactions volume"
       },
       "general": {
         "timeline_title": "Recent Activity",
