@@ -4,19 +4,44 @@
     "noQuorumForCycle": "Cannot retrieve quorum for vote cycle {voteCycle}"
   },
   "welcome": {
-    "howItWorks": {
-      "title": "Voting process:<br/> how does it work?",
-      "description": "The voting system consists of two steps. In the first one, you are asked to express your opinion for every each proposal",
-      "step1": "<b>First step</b><br/><br/>At the bottom of each proposals detail you will find 3 buttons to express your opinion",
-      "step2": "<b>Second step</b><br/><br/>From the summary pannel, that you will find at the bottom of your screen, you can use your trust token to validate the vote"
+    "votingProcess": {
+      "title": "As Seedizen, vote as you prefer!",
+      "step1": "<b>One by one</b><br/><br/>Vote on one proposal at a time (Against, Abstain, In favour) and cast a share of your trust tokens immediately on each proposal as you go.",
+      "step2": "<b>All together</b><br/><br/>Start by pre-casting your initial voting intention for each proposal (Against, Abstain, In favour). When you have considered all proposals and feel that you are ready to vote, view the recap of your votes in the summary panel and refine the allocation of your trust tokens amongst all proposals. Once done, you can simply cast your vote for all proposals in a single press of a button."
     },
-    "step2": {
-      "title": "Changed your mind? <br/>How to manage your preferances from the summary panel",
-      "description": "The voting system consists of two steps. In the first one, you are asked to express your opinion for every each proposal"
+    "quickVotingMode": {
+      "title": "One by one",
+      "description": "On every proposal card in the proposal list, or on each proposal detail view, three buttons (Against, Abstain, In favour) are available for you to vote. <br/><br/>Press on the button that corresponds to your voting intention and a trust token slider will appear, allowing you to allocate a share of your trust tokens to this proposal. Confirm your vote immediately and spend your trust tokens on this proposal."
     },
-    "step3": {
-      "title": "Trust token: <br/>how they work and why you want to use all of them at once",
-      "description": "The voting system consists of two steps. In the first one, you are asked to express your opinion for every each proposal"
+    "informedVoting1": {
+      "title": "All together",
+      "description": "This voting mode consists of three steps, the last one being optional. </b>.",
+      "step1": "<b>First step</b><br/><br/>Start by pre-casting your initial voting intention using one of the three buttons (Against, Abstain, In favour) on <b> each and every proposal"
+    },
+    "informedVoting2": {
+      "step2": "<b>Second step</b><br/><br/>Once all the proposals have been considered, the summary panel will show a series of sliders that will allow you to ponder on your votes and allocate the right amount of trust tokens on each proposal, relative to others, before confirming your vote."
+    },
+    "changeYourMind": {
+      "step3": "<b>Third step</b> (optional)",
+      "description": "It's still time to change your initial voting intention. <b>You change your selection directly on the summary panel, simply by taping on the arrow to display the three buttons again (Against, Abstain, In favour).</b>."
+    },
+    "chooseMethod": {
+      "title": "It's now time to choose how you would like to vote.",
+      "description": "Select one of the two voting modes proposed below. Nothing to worry about, you can change your selection at any time by tapping on the help icon (?) at the top right of your screen.",
+      "quick": "One by one",
+      "informed": "All together",
+      "readMore":  "Read about the two modes"
+    },
+    "trustTokens": {
+      "title": "Trust tokens: <br/>how they work and why you want to use all of them at once",
+      "description": "Trust tokens are what citizens receive in order to cast their votes. The amounts of trust tokens you receive are equivalent to your Contribution score.<br/></br/>Each citizen receives different trust tokens for Campaigns, Alliances, Milestones and Referendums.<br/><br/>You can only vote on a proposal once, and your trust tokens are only valid for one voting cycle at a time. So, it’s important to use all of them on each voting cycle."
+    },
+    "proposalTypes1": {
+      "title": "Proposals and Referendums: <br/>what you will be voting on",
+      "description": "During each voting cycle, there are several types of proposals: Campaigns, Alliances, Milestones and Referendums<br/><br/>Campaigns are ideas people are proposing to get Seeds into the hands of the many, to distribute the abundance of Seeds.<br/><br/>"
+    },
+    "proposalTypes2": {
+      "description": "Alliances are projects proposed by businesses, networks and organisations that would like to become alliances partners in co-creating this regenerative movement.<br/><br/>Milestones are when Hypha is asking the SEEDS community to approve a payment based on delivering certain outlines key results.<br/><br/>Referendums demonstrate the power of the citizens in action. Here is where people propose changes to the constitution that the community can vote on and ratify."
     }
   },
   "proposal": {
@@ -299,7 +324,8 @@
       "budget": {
         "title": "Remaining budget"
       },
-      "precast-title": "Precast your vote",
+      "precast-title": "Pre-cast your vote",
+      "cast-title": "Cast your vote",
       "voted-on": {
         "title": "Thank you!",
         "subtitle": "Your Citizen voice is much apreciated!"
@@ -399,6 +425,13 @@
       "error": {
         "title": "Error",
         "message": "Oopsies, please try again."
+      },
+      "voteOption": {
+        "favour": "Upwote",
+        "against": "Downvote",
+        "abstain": "Abstained",
+        "trustTokensPercent": "{percentage}% of trust tokens",
+        "trustTokensNotUsed": "No trust tokens will be used"
       }
     }
   },

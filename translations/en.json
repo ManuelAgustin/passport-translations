@@ -130,9 +130,12 @@
     "byAuthor": "by {author}",
     "inFavour": "In favour",
     "inFavourNo": "In favour: {no}",
+    "inFavourPercent": "In favour: {no}%",
     "against": "Against",
     "againstNo": "Against: {no}",
+    "againstPercent": "Against: {no}%",
     "totalNo": "Total: {no}",
+    "totalPercent": "Votes: {no}",
     "abstain": "Abstain",
     "proposalId": "Proposal ID: {id}",
     "timeLeft": "Time left: {days, plural, =0 {expires today} =1 {one day left} other {# days left}}",
@@ -164,7 +167,21 @@
     "daysLeft": "{days, plural, =0 {expires today} =1 {one day left} other {# days left}}",
     "endedOn": "Ended on: {days, date, instant}",
     "startsIn": "{days, plural, =0 {Opens today} =1 {Opens tomorrow} other {Opens in # days}}",
-    "endedLongTimeAgo": "Ended long time ago"
+    "endedLongTimeAgo": "Ended long time ago",
+    "voteModeToggle": {
+      "quick": "Vote one by one",
+      "informed": "Vote all together",
+      "noModeSelected": "Please select a voting mode"
+    },
+    "voteAction": {
+      "voteOption": {
+        "favour": "Upwote",
+        "against": "Downvote",
+        "abstain": "Abstained"
+      },
+      "trustTokensPercent": "{percentage}% of trust tokens",
+      "trustTokensNotUsed": "No trust tokens will be used"
+    }
   },
   "proposal": {
     "type": {
