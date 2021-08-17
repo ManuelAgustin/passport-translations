@@ -169,8 +169,8 @@
     "startsIn": "{days, plural, =0 {Opens today} =1 {Opens tomorrow} other {Opens in # days}}",
     "endedLongTimeAgo": "Ended long time ago",
     "voteModeToggle": {
-      "quick": "Vote one by one",
-      "informed": "Vote all together",
+      "quick": "Quick Vote",
+      "informed": "Informed Vote",
       "noModeSelected": "Please select a voting mode"
     },
     "voteAction": {
