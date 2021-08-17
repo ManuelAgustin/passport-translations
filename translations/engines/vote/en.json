@@ -6,15 +6,15 @@
   "welcome": {
     "votingProcess": {
       "title": "As Seedizen, vote as you prefer!",
-      "step1": "<b>One by one</b><br/><br/>Vote on one proposal at a time (Against, Abstain, In favour) and cast a share of your trust tokens immediately on each proposal as you go.",
-      "step2": "<b>All together</b><br/><br/>Start by pre-casting your initial voting intention for each proposal (Against, Abstain, In favour). When you have considered all proposals and feel that you are ready to vote, view the recap of your votes in the summary panel and refine the allocation of your trust tokens amongst all proposals. Once done, you can simply cast your vote for all proposals in a single press of a button."
+      "step1": "<b>Quick Vote</b><br/><br/>Vote on one proposal at a time (Against, Abstain, In favour) and cast a share of your trust tokens immediately on each proposal as you go.",
+      "step2": "<b>Informed Vote</b><br/><br/>Start by pre-casting your initial voting intention for each proposal (Against, Abstain, In favour). When you have considered all proposals and feel that you are ready to vote, view the recap of your votes in the summary panel and refine the allocation of your trust tokens amongst all proposals. Once done, you can simply cast your vote for all proposals in a single press of a button."
     },
     "quickVotingMode": {
-      "title": "One by one",
+      "title": "Quick Vote",
       "description": "On every proposal card in the proposal list, or on each proposal detail view, three buttons (Against, Abstain, In favour) are available for you to vote. <br/><br/>Press on the button that corresponds to your voting intention and a trust token slider will appear, allowing you to allocate a share of your trust tokens to this proposal. Confirm your vote immediately and spend your trust tokens on this proposal."
     },
     "informedVoting1": {
-      "title": "All together",
+      "title": "Informed Vote",
       "description": "This voting mode consists of three steps, the last one being optional. </b>.",
       "step1": "<b>First step</b><br/><br/>Start by pre-casting your initial voting intention using one of the three buttons (Against, Abstain, In favour) on <b> each and every proposal"
     },
@@ -28,7 +28,7 @@
     "chooseMethod": {
       "title": "It's now time to choose how you would like to vote.",
       "description": "Select one of the two voting modes proposed below. Nothing to worry about, you can change your selection at any time by tapping on the help icon (?) at the top right of your screen.",
-      "quick": "One by one",
+      "quick": "Quick Vote",
       "informed": "All together",
       "readMore":  "Read about the two modes"
     },
