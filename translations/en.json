@@ -105,6 +105,7 @@
     "regenerative_path": "Take Regenerative Path",
     "create_organization_account": "Create Organisation Account",
     "link_account": "Link a SEEDS Account",
+    "link_account_list": "Link a TLOS Account",
     "security": "Security",
     "backup_key": "Backup Private Key",
     "recovery_kit": "Generate Recovery Kit",
