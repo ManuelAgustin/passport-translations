@@ -7,15 +7,16 @@
   "step-select-recipient": {
     "page_title": "Send <em>Seeds</em>",
     "recipient_input_title": "Search for a recipient below:",
-    "recipient_input_label": "SEEDS account name or nickname",
+    "recipient_input_label": "Account name or nickname",
     "recent_recipients": "Recent recipients",
     "no_accounts_found": "No accounts found.",
     "load_more": "Load More"
   },
   "step-select-amount": {
-    "page_title": "Send Seeds",
+    "page_title": "Send <em>Seeds</em>",
     "will_receive": "will receive",
-    "enter_amount": "amount of Seeds to send",
+    "enter_amount": "Amount of Seeds to send",
+    "enter_amount_dollar": "Amount of Dollar to send",
     "available_seeds": "Available Seeds",
     "insufficient_available_seeds": "Not enough available Seeds.",
     "enter_memo": "Memo (optional)",
