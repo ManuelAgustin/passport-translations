@@ -117,8 +117,8 @@
     "redeem_invite": "Redeem an Invite",
     "progress_description": "Your path to",
     "account_switcher": {
-      "change_account": "Change Account",
-      "change_account_expanded": "Change Account",
+      "change_account": "Link or change account",
+      "change_account_expanded": "Link or change account",
       "unlink_button": {
         "waiting": "",
         "unlink": "Unlink",
