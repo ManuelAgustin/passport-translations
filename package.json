@@ -1,6 +1,6 @@
 {
   "name": "passport-translations",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Translation files for the SEEDS Global Passport application",
   "keywords": [
     "ember-addon"
