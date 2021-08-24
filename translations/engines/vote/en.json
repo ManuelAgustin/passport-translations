@@ -16,21 +16,21 @@
     "informedVoting1": {
       "title": "Informed Vote",
       "description": "This voting mode consists of three steps, the last one being optional. </b>.",
-      "step1": "<b>First step</b><br/><br/>Start by pre-casting your initial voting intention using one of the three buttons (Against, Abstain, In favour) on <b> each and every proposal"
+      "step1": "<b>First step</b><br/><br/>Start by pre-casting your initial voting intention using one of the three buttons (Against, Abstain, In favour) on each and every proposal"
     },
     "informedVoting2": {
       "step2": "<b>Second step</b><br/><br/>Once all the proposals have been considered, the summary panel will show a series of sliders that will allow you to ponder on your votes and allocate the right amount of trust tokens on each proposal, relative to others, before confirming your vote."
     },
     "changeYourMind": {
       "step3": "<b>Third step</b> (optional)",
-      "description": "It's still time to change your initial voting intention. <b>You change your selection directly on the summary panel, simply by taping on the arrow to display the three buttons again (Against, Abstain, In favour).</b>."
+      "description": "It's still time to change your initial voting intention. You can change your selection directly on the summary panel, simply by taping on the arrow to display the three buttons again (Against, Abstain, In favour)."
     },
     "chooseMethod": {
       "title": "It's now time to choose how you would like to vote.",
-      "description": "Select one of the two voting modes proposed below. Nothing to worry about, you can change your selection at any time by tapping on the help icon (?) at the top right of your screen.",
+      "description": "Select one of the two voting modes proposed below. Nothing to worry about, you can change your selection at any time by tapping on the voting mode toggle at the top right of your screen.",
       "quick": "Quick Vote",
-      "informed": "All together",
-      "readMore":  "Read about the two modes"
+      "informed": "Informed Vote",
+      "readMore":  "Voting tutorial"
     },
     "trustTokens": {
       "title": "Trust tokens: <br/>how they work and why you want to use all of them at once",

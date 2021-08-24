@@ -130,13 +130,13 @@
   "vote": {
     "byAuthor": "by {author}",
     "inFavour": "In favour",
-    "inFavourNo": "In favour: {no}",
+    "inFavourNo": "In favour: {no, number}",
     "inFavourPercent": "In favour: {no}%",
     "against": "Against",
-    "againstNo": "Against: {no}",
+    "againstNo": "Against: {no, number}",
     "againstPercent": "Against: {no}%",
-    "totalNo": "Total: {no}",
-    "totalPercent": "Votes: {no}",
+    "totalNo": "Total: {no, number}",
+    "votesNo": "Votes: {no, number}",
     "abstain": "Abstain",
     "proposalId": "Proposal ID: {id}",
     "timeLeft": "Time left: {days, plural, =0 {expires today} =1 {one day left} other {# days left}}",
@@ -176,7 +176,7 @@
     },
     "voteAction": {
       "voteOption": {
-        "favour": "Upwote",
+        "favour": "Upvote",
         "against": "Downvote",
         "abstain": "Abstained"
       },
