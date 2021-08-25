@@ -2,24 +2,24 @@
     "general": {
         "available": "Доступно",
         "planted": "Посаджено",
-        "unplanted": "",
+        "unplanted": "Повернуто",
         "harvested": "Зібрано",
-        "unplanting": "",
-        "guest": "",
-        "visitor": "",
-        "resident": "",
-        "citizen": "",
-        "organisation": ""
+        "unplanting": "Повернення",
+        "guest": "Гість",
+        "visitor": "Відвідувач",
+        "resident": "Резидент",
+        "citizen": "Громадянин",
+        "organisation": "Організація"
     },
     "currencies": {
         "seeds": {
-            "single": "",
-            "plural": ""
+            "single": "Seed",
+            "plural": "Seeds"
         }
     },
     "balances": {
         "growth": {
-            "seeds": ""
+            "seeds": "Seeds"
         },
         "labels": {
             "available": {
