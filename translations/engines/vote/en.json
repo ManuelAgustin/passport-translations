@@ -342,8 +342,13 @@
         "title": "Trust tokens used / available"
       },
       "monitor-scores": {
-        "title": "Monitor the scores",
-        "subtitle": "See how the proposals are doing"
+        "title": "Voting Results",
+        "subtitle": {
+          "campaign": "See how Campaigns have been voted on so far",
+          "alliance": "See how Alliances have been voted on so far",
+          "referendum": "See how referendums have been voted on so far",
+          "milestone": "See how milestones have been voted so far"
+        }
       },
       "vote-next": {
         "title": "Vote next proposal",
@@ -357,8 +362,8 @@
         "milestone": "Milestones"
       },
       "fund": {
-        "campaign": "Campaign.funds",
-        "alliance": "Alliance.funds",
+        "campaign": "gifts.seeds",
+        "alliance": "allies.seeds",
         "referendum": "",
         "milestone": ""
       },
