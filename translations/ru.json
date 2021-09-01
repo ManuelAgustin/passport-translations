@@ -2,393 +2,411 @@
     "general": {
         "available": "Доступно",
         "planted": "Посажено",
-        "unplanted": "",
-        "harvested": "",
-        "unplanting": "",
-        "guest": "",
-        "visitor": "",
-        "resident": "",
-        "citizen": "",
-        "organisation": ""
+        "unplanted": "Возвращено",
+        "harvested": "Собрано урожая",
+        "unplanting": "Возвращение",
+        "guest": "Гость",
+        "visitor": "Посетитель",
+        "resident": "Резидент",
+        "citizen": "Гражданин",
+        "organisation": "Организация"
     },
     "currencies": {
         "seeds": {
-            "single": "",
-            "plural": ""
+            "single": "Seed",
+            "plural": "Seeds"
         }
     },
     "balances": {
         "growth": {
-            "seeds": ""
+            "seeds": "Seeds"
         },
         "labels": {
             "available": {
-                "short": "",
-                "full": ""
+                "short": "Доступно",
+                "full": "Доступно Seeds"
             },
             "planted": {
-                "short": "",
-                "full": ""
+                "short": "Посажено",
+                "full": "Посажено Seeds"
             },
             "unplanted": {
-                "short": "",
-                "full": ""
+                "short": "Возвращено",
+                "full": "Возвращено Seeds"
             },
             "harvest": {
-                "short": "",
-                "full": ""
+                "short": "Урожай",
+                "full": "Урожай Seeds"
             },
             "unplanting": {
-                "short": "",
-                "full": ""
+                "short": "Возврат",
+                "full": "Возврат Seeds"
             },
             "deferred": {
-                "short": "",
-                "full": ""
+                "short": "Отложенные",
+                "full": "Отложено Seeds"
             },
             "required": {
-                "short": "",
-                "full": ""
+                "short": "Необходимо",
+                "full": "Необходимо Seeds"
             }
         }
     },
     "notifications": {
-        "title": "",
-        "text": ""
+        "title": "Паспорт SEEDS",
+        "text": "Уведомление SEEDS Паспорта"
     },
     "buttons": {
-        "close": "",
-        "cancel": "",
-        "retry": "",
-        "continue": "",
-        "next": "",
-        "finish": "",
-        "reply": "",
-        "publish": "",
-        "edit": "",
-        "create": "",
-        "save": "",
-        "select": "",
-        "confirm": "",
-        "view-details": "",
-        "cancel-proposal": "",
-        "view-details-and-vote": "",
-        "next-proposal-vote": "",
-        "next-proposal-view": "",
-        "finished-precast": ""
+        "close": "Закрыть",
+        "cancel": "Отменить",
+        "retry": "Попробовать снова",
+        "continue": "Продолжить",
+        "next": "Далее",
+        "finish": "Готово",
+        "reply": "Ответить",
+        "publish": "Опубликовать",
+        "edit": "Изменить",
+        "create": "Создать",
+        "save": "Сохранить",
+        "select": "Выбрать",
+        "confirm": "Подтвердить",
+        "view-details": "Подробнее",
+        "cancel-proposal": "Отменить заявку",
+        "view-details-and-vote": "Ознакомиться и голосовать",
+        "next-proposal-vote": "Голосовать за следующую заявку",
+        "next-proposal-view": "Просмотреть следующую заявку",
+        "finished-precast": "Все заявки прошли предварительный отбор!"
     },
     "menus": {
-        "wallet": "",
-        "gather_harvest": "",
-        "transfer_seeds": "",
-        "plant_seeds": "",
-        "unplant_seeds": "",
-        "unplant_schedule": "",
-        "manage_invites": "",
-        "get_seeds": "",
-        "digitize_qr_code": "",
-        "profile": "",
-        "organization_profile": "",
-        "update_profile": "",
-        "view_profile": "",
-        "create_profile": "",
-        "game_of_seeds": "",
-        "game_of_seeds_dashboard": "",
-        "community": "",
-        "organization": "",
-        "invite_friends": "",
-        "gos": "",
-        "vouch_for_friend": "",
-        "view_badges": "",
-        "invite_members": "",
-        "vouch_for_member": "",
-        "regenerative_path": "",
-        "create_organization_account": "",
-        "link_account": "",
-        "security": "",
-        "backup_key": "",
-        "recovery_kit": "",
-        "welcome": "",
-        "sign_out": "",
-        "sign_in": "",
-        "sign_up": "",
-        "recover_password": "",
-        "redeem_invite": "",
-        "progress_description": "",
+        "wallet": "Кошелек",
+        "gather_harvest": "Собрать Урожай",
+        "transfer_seeds": "Отправить Seeds",
+        "plant_seeds": "Посадить Seeds",
+        "unplant_seeds": "Вернуть Seeds",
+        "unplant_schedule": "График Возврата",
+        "manage_invites": "Управление Приглашениями",
+        "get_seeds": "Получить Seeds",
+        "digitize_qr_code": "Оплатить с помощью QR кода",
+        "profile": "Профиль",
+        "organization_profile": "Профиль Организации",
+        "update_profile": "Редактировать Профиль",
+        "view_profile": "Просмотреть Профиль",
+        "create_profile": "Создать Профиль",
+        "game_of_seeds": "Игры SEEDS",
+        "game_of_seeds_dashboard": "Управление",
+        "community": "Сообщество",
+        "organization": "Организация/Бизнес",
+        "invite_friends": "Пригласить Друга",
+        "gos": "Игры SEEDS",
+        "vouch_for_friend": "Поручиться за Друга",
+        "view_badges": "Просмотреть Достижения",
+        "invite_members": "Пригласить Участника",
+        "vouch_for_member": "Поручиться за Участника",
+        "regenerative_path": "Встать на Путь Регенерации",
+        "create_organization_account": "Создать Аккаунт Организаци",
+        "link_account": "Привязать Аккаунт SEEDS",
+        "security": "Безопасность",
+        "backup_key": "Сохранить Приватный Ключ",
+        "recovery_kit": "Сгенерировать Комплект для восстановления",
+        "welcome": "Добро пожаловать",
+        "sign_out": "Выйти",
+        "sign_in": "Войти",
+        "sign_up": "Зарегистрироваться",
+        "recover_password": "Восстановить Пароль",
+        "redeem_invite": "Использовать Приглашение",
+        "progress_description": "Ваш путь к",
         "account_switcher": {
-            "change_account": "",
-            "change_account_expanded": "",
+            "change_account": "Привязать или сменить аккаунт",
+            "change_account_expanded": "Привязать или сменить аккаунт",
             "unlink_button": {
                 "waiting": "",
-                "unlink": "",
+                "unlink": "Отменить",
                 "unlinking": ""
             }
         },
-        "app_version": ""
+        "app_version": "Global Passport, версия",
+        "link_account_list": "Привязать Аккаунт Telos"
     },
     "vote": {
-        "byAuthor": "",
-        "inFavour": "",
-        "inFavourNo": "",
-        "against": "",
-        "againstNo": "",
-        "totalNo": "",
-        "abstain": "",
-        "proposalId": "",
-        "timeLeft": "",
+        "byAuthor": "Автор:",
+        "inFavour": "За",
+        "inFavourNo": "Поддержали: {no, number}",
+        "against": "Против",
+        "againstNo": "Против: {no, number}",
+        "totalNo": "Всего: {no, number}",
+        "abstain": "Воздержаться",
+        "proposalId": "ID заявки: {id}",
+        "timeLeft": "До конца голосования: {дней, plural, =0 {меньше суток} =1 {остался 1 день} other {# дней}}",
         "quorumReached": {
-            "label": "",
-            "yes": "",
-            "no": ""
+            "label": "Кворум: {state}",
+            "yes": "достигнут",
+            "no": "не достигнут"
         },
         "status": {
-            "voted": "",
-            "passed": "",
-            "rejected": ""
+            "voted": "Проголосовано",
+            "passed": "Принято",
+            "rejected": "Не принято"
         },
-        "quorum": "",
-        "trustTokens": "",
-        "votesInFavour": "",
-        "actionTitle": "",
+        "quorum": "Кворум",
+        "trustTokens": "{percent}% trust токенов граждан",
+        "votesInFavour": "{percent}% голосов в поддержку",
+        "actionTitle": "Создайте предварительное голосование!",
         "confirmText": {
-            "against": "",
-            "favour": "",
-            "abstain": ""
+            "against": "Я <b>не поддерживаю</b> это предложение",
+            "favour": "Я <b>поддерживаю</b> это предложение",
+            "abstain": "<b>Воздержаться</b>"
         },
         "widget": {
-            "title": "",
-            "button": "",
-            "voted": "",
-            "disclaimer": ""
+            "title": "Trust токенов использовано/доступно",
+            "button": "Голосовать",
+            "voted": "Проголосовано",
+            "disclaimer": "Ваши trust токены используются, когда вы выражаете свое мнение (за или против) по каждому предложению. Ваши trust токены не используются, если вы выбрали \"Воздержаться\"."
         },
-        "daysLeft": "",
-        "endedOn": "",
-        "startsIn": "",
-        "endedLongTimeAgo": ""
+        "daysLeft": "{дней, plural, =0 {меньше суток} =1 {остался 1 день} other {# дней}}",
+        "endedOn": "Завершено: {days, date, instant}",
+        "startsIn": "{дней, plural, =0 {Сегодня} =1 {Завтра} other {Через # days}}",
+        "endedLongTimeAgo": "Давно завершилось",
+        "againstPercent": "{no}% проголосовали против",
+        "votesNo": "Проголосовало: {no, number}",
+        "voteModeToggle": {
+            "quick": "Быстрое Голосование",
+            "informed": "Обдуманное Голосование",
+            "noModeSelected": "Пожалуйста, выберите режим голосования"
+        },
+        "voteAction": {
+            "voteOption": {
+                "favour": "Голосование \"За\"",
+                "against": "Голосование \"Против\"",
+                "abstain": "Воздержались"
+            },
+            "trustTokensPercent": "{percentage}% trust токенов",
+            "trustTokensNotUsed": "Trust токены не будут использованы"
+        },
+        "inFavourPercent": "{no}% голосов в поддержку"
     },
     "proposal": {
         "type": {
-            "campaign": "",
-            "alliance": "",
-            "referendum": "",
-            "milestone": ""
+            "campaign": "Кампания",
+            "alliance": "Альянс",
+            "referendum": "Референдум",
+            "milestone": "Этап"
         },
         "details": {
-            "title": ""
+            "title": "Подробнее"
         }
     },
     "bottom-bar": {
-        "home": "",
-        "engage": "",
-        "vote": "",
-        "connect": "",
-        "trade": ""
+        "home": "Обзор",
+        "engage": "Вовлечение",
+        "vote": "Голосование",
+        "connect": "Общение",
+        "trade": "Сделки"
     },
     "wallet-unlock": {
-        "unlock_dialog_title": "",
-        "progress_dialog_title": "",
-        "error_dialog_title": "",
-        "store_private_key_dialog_title": ""
+        "unlock_dialog_title": "Разблокируйте свой кошелек для безопасного подтверждения транзакции",
+        "progress_dialog_title": "Проведение транзакции…",
+        "error_dialog_title": "Ошибка выполнения транзакции",
+        "store_private_key_dialog_title": "Безопасно храните свой Приватный Ключ на этом устройстве и используйте пароль кошелька устройства для подтверждения транзакций"
     },
     "error_messages": {
         "unknown_try_again": {
-            "title": "",
-            "description": ""
+            "title": "Ошибка",
+            "description": "Произошло нечто непредвиденное. Пожалуйста, попробуйте снова."
         },
         "invalid_qr_code": {
-            "title": "",
-            "description": ""
+            "title": "Ошибка при загрузке QR-кода",
+            "description": "Пожалуйста, убедитесь, что вы разрешили этому приложению доступ к вашей камере и проверьте, что вы сканируете действительный QR-код SEEDS Платежа."
         }
     },
     "pay_with_seeds": {
-        "qrcode_prompt": ""
+        "qrcode_prompt": "Поместите QR-код SEEDS Платежа в область сканирования"
     },
     "image_uploader": {
-        "default_title": "",
-        "default_description": "",
+        "default_title": "Добавить изображение",
+        "default_description": "Если у вас нет подходящего варианта, подключитесь к Библиотеке Unsplash",
         "error": {
             "general": {
-                "title": "",
-                "description": ""
+                "title": "Ошибка загрузки",
+                "description": "При загрузке вашего изображения возникла ошибка. Пожалуйста, попробуйте еще раз."
             },
             "unsupported": {
-                "title": "",
-                "description": ""
+                "title": "Неподдерживаемый формат",
+                "description": "Вы можете загружать только изображения в формате JPG и PNG"
             }
         }
     },
     "titles": {
-        "hashtags": ""
+        "hashtags": "Теги"
     },
     "moon-calendar": {
-        "cycle": "",
+        "cycle": "Лунный Цикл",
         "phase": {
-            "newmoon": "",
-            "waxinggibbous": "",
-            "firstquarter": "",
-            "waxingcrescent": "",
-            "fullmoon": "",
-            "waningcrescent": "",
-            "lastquarter": "",
-            "waninggibbous": ""
+            "newmoon": "Новолуние",
+            "waxinggibbous": "Прибывающая Луна",
+            "firstquarter": "Первая Четверть",
+            "waxingcrescent": "Молодая Луна",
+            "fullmoon": "Полнолуние",
+            "waningcrescent": "Старая Луна",
+            "lastquarter": "Третья Четверть",
+            "waninggibbous": "Убывающая Луна"
         }
     },
     "voting": {
-        "endTitle": ""
+        "endTitle": "До конца голосования:"
     },
     "countdown-timer": {
-        "days": "",
-        "hours": "",
-        "minutes": "",
-        "seconds": ""
+        "days": "дней",
+        "hours": "часов",
+        "minutes": "минут",
+        "seconds": "сек"
     },
     "main": {
         "intro-page": {
-            "next": "",
+            "next": "Далее",
             "connect": {
-                "title": "",
-                "description": ""
+                "title": "Общение",
+                "description": "Общайтесь, делитесь и созидайте вместе с единомышленниками для восстановления планеты."
             },
             "vote": {
-                "title": "",
-                "description": ""
+                "title": "Голосование",
+                "description": "Голосуйте за проекты, которые вам важны, и получайте финансирование ваших идей для регенерации."
             },
             "play": {
-                "title": "",
-                "description": ""
+                "title": "Игра",
+                "description": "Играйте в Игры SEEDS и меняйте мир вместе, используя Seeds каждый день."
             }
         },
         "sign-in-page": {
-            "title-serif": "",
-            "title-sans-serif": "",
-            "email": "",
-            "password": "",
-            "generic-error": "",
-            "forgot-password": "",
-            "no-account": "",
-            "create-one": "",
-            "no-account-or": "",
-            "redeem-invite": "",
-            "sign-in-button": ""
+            "title-serif": "Войти",
+            "title-sans-serif": "в",
+            "email": "Email",
+            "password": "Пароль",
+            "generic-error": "Пожалуйста, проверьте email и пароль.",
+            "forgot-password": "Забыли пароль?",
+            "no-account": "У вас нет аккаунта? ",
+            "create-one": "Создать",
+            "no-account-or": " или ",
+            "redeem-invite": "Использовать приглашение",
+            "sign-in-button": "Войти"
         },
         "sign-up-page": {
-            "title-serif": "",
-            "title-sans-serif": "",
-            "email": "",
-            "password": "",
-            "confirm-password": "",
-            "generic-error": "",
-            "has-account": "",
-            "sign-in": "",
-            "sign-up-button": "",
-            "agree-to-terms": "",
-            "agree-to-terms-url": "",
-            "agree-to-terms-url-label": "",
-            "agree-to-terms-and": "",
-            "privacy-policy-url": "",
-            "privacy-policy-url-label": "",
-            "unknown-error": "",
-            "email-already-registered": ""
+            "title-serif": "Создать",
+            "title-sans-serif": "аккаунт",
+            "email": "Email",
+            "password": "Пароль",
+            "confirm-password": "Подтвердите пароль",
+            "generic-error": "Пожалуйста, проверьте email и пароль.",
+            "has-account": "У вас уже есть аккаунт в SEEDS Passport? ",
+            "sign-in": "Войти.",
+            "sign-up-button": "Создать аккаунт",
+            "agree-to-terms": "Создавая аккаунт, вы соглашаетесь с нашими ",
+            "agree-to-terms-url": "https://joinseeds.earth/terms-and-conditions",
+            "agree-to-terms-url-label": "условиями ",
+            "agree-to-terms-and": "и ",
+            "privacy-policy-url": "https://joinseeds.earth/privacy-policy",
+            "privacy-policy-url-label": "политикой конфиденциальности.",
+            "unknown-error": "Произошла непредвиденная ошибка. Пожалуйста, проверьте ваш email и пароль, и повторите попытку.",
+            "email-already-registered": "Пользователь с данным email уже был зарегистрирован."
         },
         "reset-password-page": {
-            "title-serif": "",
-            "title-sans-serif": "",
-            "email": "",
-            "description": "",
-            "has-account": "",
-            "sign-in": "",
-            "send-email-button": "",
-            "modal-success": "",
-            "generic-error": ""
+            "title-serif": "Сбросить",
+            "title-sans-serif": "пароль",
+            "email": "Email",
+            "description": "Введите email, который вы использовали при создании учетной записи; мы вышлем вам ссылку для сброса пароля.",
+            "has-account": "У вас уже есть аккаунт в SEEDS Passport? ",
+            "sign-in": "Войти.",
+            "send-email-button": "Отправить email",
+            "modal-success": "Мы отправили вам письмо со ссылкой для сброса пароля.\nПожалуйста, проверьте email, чтобы сбросить пароль.",
+            "generic-error": "При сбросе пароля произошла ошибка."
         },
         "onboard-invite-page": {
-            "have-received-invite": "",
-            "paste-invite": "",
-            "paste-placeholder": "",
-            "no-invite-yet": "",
-            "request-below": "",
-            "link-account": "",
-            "sign-in": "",
-            "request-invite-button": "",
-            "create-account-button": "",
-            "redeem-button": "",
-            "top-up-account-button": "",
-            "ignore-invite-button": "",
-            "received-invite": "",
-            "congratulations": "",
-            "sent-you": "",
-            "plant-warning": "",
-            "create-title-serif": "",
-            "create-title-sans-serif": "",
-            "topup-title-serif": "",
-            "topup-title-sans-serif": "",
-            "create-invite": "",
-            "nickname-placeholder": "",
-            "password-placeholder": "",
-            "email-placeholder": "",
-            "next": "",
-            "secret-words-title-serif": "",
-            "secret-words-title-sans-serif": "",
-            "secret-words-description": "",
-            "copy-words-clipboard": "",
-            "generate-recovery-image": "",
+            "have-received-invite": "У вас есть приглашение?",
+            "paste-invite": "Вставьте ссылку или код ниже",
+            "paste-placeholder": "Вставить код/ссылку",
+            "no-invite-yet": "У вас еще нет приглашения?",
+            "request-below": "Запросите приглашение ниже или",
+            "link-account": "свяжите с существующим аккаунтом SEEDS",
+            "sign-in": "Войти",
+            "request-invite-button": "Запросить приглашение",
+            "create-account-button": "Создать аккаунт",
+            "redeem-button": "Применить",
+            "top-up-account-button": "Пополнить Аккаунт",
+            "ignore-invite-button": "Не применять",
+            "received-invite": "Вы получили приглашение!",
+            "congratulations": "Поздравляем!",
+            "sent-you": "Отправил(а) вам:",
+            "plant-warning": "Примечание: 5 Seeds будут посажены автоматически при создании или пополнении аккаунта.",
+            "create-title-serif": "Создать",
+            "create-title-sans-serif": "Аккаунт",
+            "topup-title-serif": "Пополнить",
+            "topup-title-sans-serif": "Аккаунт",
+            "create-invite": "Использовать приглашение",
+            "nickname-placeholder": "Ник",
+            "password-placeholder": "Пароль",
+            "email-placeholder": "Email (для восстановления пароля)",
+            "next": "Далее",
+            "secret-words-title-serif": "Секретная",
+            "secret-words-title-sans-serif": "Фраза",
+            "secret-words-description": "Запишите эти 12 слов (в идеале - на бумаге) и храните их в надежном месте. Они понадобятся вам в случае, если вам когда-нибудь понадобится восстановить свой аккаунт.",
+            "copy-words-clipboard": "Копировать слова в буфер обмена",
+            "generate-recovery-image": "Сгенерировать изображение для восстановления",
             "animation": {
-                "congrats": "",
-                "serif-title": "",
-                "sans-serif-title": "",
-                "close-button": ""
+                "congrats": "Ура!",
+                "serif-title": "Теперь ваш статус:",
+                "sans-serif-title": "Посетитель",
+                "close-button": "Закрыть"
             },
             "account-created": {
-                "account-ready": "",
-                "congrats": "",
-                "visitor": "",
-                "home": ""
+                "account-ready": "Ваш Аккаунт Создан",
+                "congrats": "Поздравляем!",
+                "visitor": "Посетитель",
+                "home": "Обзор"
             }
         },
         "request-invite-page": {
-            "title-serif": "",
-            "title-sans-serif": "",
-            "description": "",
-            "nickname-placeholder": "",
-            "email-placeholder": "",
-            "story-placeholder": "",
-            "organisation-checkbox": "",
-            "send-request": ""
+            "title-serif": "Запросить",
+            "title-sans-serif": "Приглашение",
+            "description": "Амбассадор SEEDS получит ваш запрос и лично отправит приглашение. Сейчас - ваш шанс рассказать о себе.",
+            "nickname-placeholder": "Ник",
+            "email-placeholder": "Email",
+            "story-placeholder": "Расскажите о себе",
+            "organisation-checkbox": "Меня интересует создание аккаунта организации",
+            "send-request": "Отправить запрос"
         }
     },
     "recovery-kit": {
         "pdf": {
-            "title-serif": "",
-            "title-sans-serif": "",
-            "account-name": "",
-            "private-key": "",
-            "mnemonic": ""
+            "title-serif": "Комплект",
+            "title-sans-serif": "Восстановления",
+            "account-name": "Имя аккаунта:",
+            "private-key": "Приватный ключ:",
+            "mnemonic": "Секретная фраза:"
         },
         "error": {
-            "title": "",
-            "message": ""
+            "title": "Ошибка",
+            "message": "Произошла ошибка при создании комплекта восстановления. Пожалуйста, попробуйте еще раз."
         },
         "notification": {
-            "safety_first": "",
-            "generate": "",
-            "recovery": "",
-            "secret_words": "",
-            "generate_kit": "",
-            "skip": ""
+            "safety_first": "Безопасность - прежде всего!",
+            "generate": "Сгенерируйте Комплект Восстановления",
+            "recovery": "Как и природе, паролям тоже иногда требуется восстановление. Вот инструменты, которые помогут вам, если вы когда-нибудь потеряете свой пароль от Global Passport.",
+            "secret_words": "Если вы потеряете 12 секретных слов или комплект восстановления, вы потеряете свой аккаунт безвозвратно",
+            "generate_kit": "Сгенерировать Набор",
+            "skip": "Нет, Спасибо"
         }
     },
     "posts": {
         "error": {
-            "tags_too_short": ""
+            "tags_too_short": "должен быть более одного символа"
         }
     },
     "profile": {
         "errors": {
-            "tags_too_long": ""
+            "tags_too_long": "Нельзя добавить более {tags} тегов"
         }
     },
     "comments": {
-        "deleted": "",
-        "view-replies": ""
+        "deleted": "Комментарий удален",
+        "view-replies": "Показать ответы"
     }
 }
