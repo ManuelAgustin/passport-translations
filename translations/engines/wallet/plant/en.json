@@ -1,7 +1,7 @@
 {
-  "page_title": "Plant Seeds",
+  "page_title": "Plant <em>Seeds</em>",
   "enter_plant_quantity": "Enter the quantity of Seeds to plant",
-  "enter_plant_quantity_placeholder": "5 Seeds",
+  "enter_plant_quantity_placeholder": "Amount of Seeds to plant",
   "available_seeds": "Available Seeds",
   "planted_seeds": "Planted Seeds",
   "not_enough_seeds": "You don't have enough available Seeds",
@@ -12,7 +12,8 @@
     "unplanting_requests_made_prior_event": "Unplanting requests made prior to the event will still be completed, with Seeds returned over the standard 12 week period (and no bonus earned)."
   },
   "buttons": {
-    "plant_seeds": "Plant Seeds"
+    "plant_seeds": "Plant Seeds",
+    "read_more": "Read more"
   },
   "transaction": {
     "sign": "Securely sign the transaction to plant Seeds",
