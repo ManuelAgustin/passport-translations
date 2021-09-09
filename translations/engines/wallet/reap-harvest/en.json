@@ -1,9 +1,9 @@
 {
   "step-harvest-summary": {
-    "page_title": "Gather Harvest",
+    "page_title": "Gather <em>Harvest</em>",
     "congratulations": "Here is a summary of your Harvest:",
     "harvest_balance": "Seeds Harvest",
-    "deferred_balance": "Deferred Seeds",
+    "deferred_balance": "Deferred Harvest",
     "footnote": {
       "more_you_participate": "The more you participate within SEEDS, the greater share of future Harvests you'll receive.",
       "your_harvest_is_locked_until": "Your Harvest is locked until \"Go Live\" event, then it will start being released to you over time.",
