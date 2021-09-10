@@ -1,7 +1,7 @@
 {
-  "page_title": "Unplant Seeds",
+  "page_title": "Unplant <em>Seeds</em>",
   "enter_unplant_quantity": "Enter the quantity of Seeds to unplant",
-  "enter_unplant_quantity_placeholder": "5 Seeds",
+  "enter_unplant_quantity_placeholder": "Amount of Seeds to unplant",
   "available_seeds": "Available Seeds",
   "planted_seeds": "Planted Seeds",
   "not_enough_seeds": "You don't have enough planted Seeds",
