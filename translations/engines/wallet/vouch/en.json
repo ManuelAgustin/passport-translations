@@ -7,9 +7,9 @@
     "can_not_vouch_over_limit": "This friend already reached maximum vouching limit."
   },
   "step-select-recipient": {
-    "page_title": "Vouch for a friend",
+    "page_title": "Vouch for <em>a friend</em>",
     "recipient_input_title": "Search for a friend below:",
-    "recipient_input_label": "SEEDS account name or nickname",
+    "recipient_input_label": "Account name or nickname",
     "already_vouched_for": "Already vouched for",
     "has_maximum_vouch_reputation": "Already reached maximum vouching limit",
     "no_accounts_found": "No accounts found.",
@@ -19,9 +19,9 @@
     "page_title": "Vouch for a friend",
     "will_gain_reputation": "will gain reputation points",
     "footnote": {
-      "note_1": "Vouching for your friends builds their reputation to help them evolve to Resident and Citizen.",
-      "note_2": "This is how we grow trust and prevent robots from taking over!",
-      "note_3": "When your friend evolves to Resident or Citizen — you earn Reputation points too, so, help them out! But if they're a bot — you lose points, so only vouch for people you know."
+      "note_1": "Vouching for your friends builds their Reputation Score and helps them evolve to Resident. This is how we grow trust and prevent robots from taking over!",
+      "note_2": "When your friend evolves to Resident and then Citizen, you earn Reputation points too for helping them on this journey.",
+      "note_3": "But, if you vouch for a bot or someone who proves to be untrustworthy or degenerative, you lose points. So, vouch only for people you know."
     },
     "transaction": {
       "sign_transaction": "Securely sign the transaction to vouch for a friend",
