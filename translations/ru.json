@@ -97,7 +97,7 @@
         "community": "Сообщество",
         "organization": "Организация/Бизнес",
         "invite_friends": "Пригласить Друга",
-        "gos": "Игра SEEDS",
+        "gos": "Игры SEEDS",
         "vouch_for_friend": "Поручиться за Друга",
         "view_badges": "Просмотреть Достижения",
         "invite_members": "Пригласить Участника",
@@ -167,7 +167,7 @@
         "startsIn": "{дней, plural, =0 {Сегодня} =1 {Завтра} other {Через # days}}",
         "endedLongTimeAgo": "Давно завершилось",
         "againstPercent": "Против: {no}%",
-        "votesNo": "Проголосовало: {no, number}",
+        "votesNo": "Голосов: {no, number}",
         "voteModeToggle": {
             "quick": "Быстрое Голосование",
             "informed": "Обдуманное Голосование",
