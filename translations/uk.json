@@ -124,7 +124,8 @@
                 "unlinking": ""
             }
         },
-        "app_version": ""
+        "app_version": "",
+        "link_account_list": ""
     },
     "vote": {
         "byAuthor": "",
@@ -164,7 +165,24 @@
         "daysLeft": "",
         "endedOn": "",
         "startsIn": "",
-        "endedLongTimeAgo": ""
+        "endedLongTimeAgo": "",
+        "inFavourPercent": "",
+        "againstPercent": "",
+        "votesNo": "",
+        "voteModeToggle": {
+            "quick": "",
+            "informed": "",
+            "noModeSelected": ""
+        },
+        "voteAction": {
+            "voteOption": {
+                "favour": "",
+                "against": "",
+                "abstain": ""
+            },
+            "trustTokensPercent": "",
+            "trustTokensNotUsed": ""
+        }
     },
     "proposal": {
         "type": {
