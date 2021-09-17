@@ -1,0 +1,412 @@
+{
+    "general": {
+        "available": "Доступно",
+        "planted": "Посаджено",
+        "unplanted": "Повернуто",
+        "harvested": "Зібрано",
+        "unplanting": "Повернення",
+        "guest": "Гість",
+        "visitor": "Відвідувач",
+        "resident": "Резидент",
+        "citizen": "Громадянин",
+        "organisation": "Організація"
+    },
+    "currencies": {
+        "seeds": {
+            "single": "Seed",
+            "plural": "Seeds"
+        }
+    },
+    "balances": {
+        "growth": {
+            "seeds": "Seeds"
+        },
+        "labels": {
+            "available": {
+                "short": "",
+                "full": ""
+            },
+            "planted": {
+                "short": "",
+                "full": ""
+            },
+            "unplanted": {
+                "short": "",
+                "full": ""
+            },
+            "harvest": {
+                "short": "",
+                "full": ""
+            },
+            "unplanting": {
+                "short": "",
+                "full": ""
+            },
+            "deferred": {
+                "short": "",
+                "full": ""
+            },
+            "required": {
+                "short": "",
+                "full": ""
+            }
+        }
+    },
+    "notifications": {
+        "title": "",
+        "text": ""
+    },
+    "buttons": {
+        "close": "",
+        "cancel": "",
+        "retry": "",
+        "continue": "",
+        "next": "",
+        "finish": "",
+        "reply": "",
+        "publish": "",
+        "edit": "",
+        "create": "",
+        "save": "",
+        "select": "",
+        "confirm": "",
+        "view-details": "",
+        "cancel-proposal": "",
+        "view-details-and-vote": "",
+        "next-proposal-vote": "",
+        "next-proposal-view": "",
+        "finished-precast": ""
+    },
+    "menus": {
+        "wallet": "",
+        "gather_harvest": "",
+        "transfer_seeds": "",
+        "plant_seeds": "",
+        "unplant_seeds": "",
+        "unplant_schedule": "",
+        "manage_invites": "",
+        "get_seeds": "",
+        "digitize_qr_code": "",
+        "profile": "",
+        "organization_profile": "",
+        "update_profile": "",
+        "view_profile": "",
+        "create_profile": "",
+        "game_of_seeds": "",
+        "game_of_seeds_dashboard": "",
+        "community": "",
+        "organization": "",
+        "invite_friends": "",
+        "gos": "",
+        "vouch_for_friend": "",
+        "view_badges": "",
+        "invite_members": "",
+        "vouch_for_member": "",
+        "regenerative_path": "",
+        "create_organization_account": "",
+        "link_account": "",
+        "security": "",
+        "backup_key": "",
+        "recovery_kit": "",
+        "welcome": "",
+        "sign_out": "",
+        "sign_in": "",
+        "sign_up": "",
+        "recover_password": "",
+        "redeem_invite": "",
+        "progress_description": "",
+        "account_switcher": {
+            "change_account": "",
+            "change_account_expanded": "",
+            "unlink_button": {
+                "waiting": "",
+                "unlink": "",
+                "unlinking": ""
+            }
+        },
+        "app_version": "",
+        "link_account_list": ""
+    },
+    "vote": {
+        "byAuthor": "",
+        "inFavour": "",
+        "inFavourNo": "",
+        "against": "",
+        "againstNo": "",
+        "totalNo": "",
+        "abstain": "",
+        "proposalId": "",
+        "timeLeft": "",
+        "quorumReached": {
+            "label": "",
+            "yes": "",
+            "no": ""
+        },
+        "status": {
+            "voted": "",
+            "passed": "",
+            "rejected": ""
+        },
+        "quorum": "",
+        "trustTokens": "",
+        "votesInFavour": "",
+        "actionTitle": "",
+        "confirmText": {
+            "against": "",
+            "favour": "",
+            "abstain": ""
+        },
+        "widget": {
+            "title": "",
+            "button": "",
+            "voted": "",
+            "disclaimer": ""
+        },
+        "daysLeft": "",
+        "endedOn": "",
+        "startsIn": "",
+        "endedLongTimeAgo": "",
+        "inFavourPercent": "",
+        "againstPercent": "",
+        "votesNo": "",
+        "voteModeToggle": {
+            "quick": "",
+            "informed": "",
+            "noModeSelected": ""
+        },
+        "voteAction": {
+            "voteOption": {
+                "favour": "",
+                "against": "",
+                "abstain": ""
+            },
+            "trustTokensPercent": "",
+            "trustTokensNotUsed": ""
+        }
+    },
+    "proposal": {
+        "type": {
+            "campaign": "",
+            "alliance": "",
+            "referendum": "",
+            "milestone": ""
+        },
+        "details": {
+            "title": ""
+        }
+    },
+    "bottom-bar": {
+        "home": "",
+        "engage": "",
+        "vote": "",
+        "connect": "",
+        "trade": ""
+    },
+    "wallet-unlock": {
+        "unlock_dialog_title": "",
+        "progress_dialog_title": "",
+        "error_dialog_title": "",
+        "store_private_key_dialog_title": ""
+    },
+    "error_messages": {
+        "unknown_try_again": {
+            "title": "",
+            "description": ""
+        },
+        "invalid_qr_code": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "pay_with_seeds": {
+        "qrcode_prompt": ""
+    },
+    "image_uploader": {
+        "default_title": "",
+        "default_description": "",
+        "error": {
+            "general": {
+                "title": "",
+                "description": ""
+            },
+            "unsupported": {
+                "title": "",
+                "description": ""
+            }
+        }
+    },
+    "titles": {
+        "hashtags": ""
+    },
+    "moon-calendar": {
+        "cycle": "",
+        "phase": {
+            "newmoon": "",
+            "waxinggibbous": "",
+            "firstquarter": "",
+            "waxingcrescent": "",
+            "fullmoon": "",
+            "waningcrescent": "",
+            "lastquarter": "",
+            "waninggibbous": ""
+        }
+    },
+    "voting": {
+        "endTitle": ""
+    },
+    "countdown-timer": {
+        "days": "",
+        "hours": "",
+        "minutes": "",
+        "seconds": ""
+    },
+    "main": {
+        "intro-page": {
+            "next": "",
+            "connect": {
+                "title": "",
+                "description": ""
+            },
+            "vote": {
+                "title": "",
+                "description": ""
+            },
+            "play": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "sign-in-page": {
+            "title-serif": "",
+            "title-sans-serif": "",
+            "email": "",
+            "password": "",
+            "generic-error": "",
+            "forgot-password": "",
+            "no-account": "",
+            "create-one": "",
+            "no-account-or": "",
+            "redeem-invite": "",
+            "sign-in-button": ""
+        },
+        "sign-up-page": {
+            "title-serif": "",
+            "title-sans-serif": "",
+            "email": "",
+            "password": "",
+            "confirm-password": "",
+            "generic-error": "",
+            "has-account": "",
+            "sign-in": "",
+            "sign-up-button": "",
+            "agree-to-terms": "",
+            "agree-to-terms-url": "",
+            "agree-to-terms-url-label": "",
+            "agree-to-terms-and": "",
+            "privacy-policy-url": "",
+            "privacy-policy-url-label": "",
+            "unknown-error": "",
+            "email-already-registered": ""
+        },
+        "reset-password-page": {
+            "title-serif": "",
+            "title-sans-serif": "",
+            "email": "",
+            "description": "",
+            "has-account": "",
+            "sign-in": "",
+            "send-email-button": "",
+            "modal-success": "",
+            "generic-error": ""
+        },
+        "onboard-invite-page": {
+            "have-received-invite": "",
+            "paste-invite": "",
+            "paste-placeholder": "",
+            "no-invite-yet": "",
+            "request-below": "",
+            "link-account": "",
+            "sign-in": "",
+            "request-invite-button": "",
+            "create-account-button": "",
+            "redeem-button": "",
+            "top-up-account-button": "",
+            "ignore-invite-button": "",
+            "received-invite": "",
+            "congratulations": "",
+            "sent-you": "",
+            "plant-warning": "",
+            "create-title-serif": "",
+            "create-title-sans-serif": "",
+            "topup-title-serif": "",
+            "topup-title-sans-serif": "",
+            "create-invite": "",
+            "nickname-placeholder": "",
+            "password-placeholder": "",
+            "email-placeholder": "",
+            "next": "",
+            "secret-words-title-serif": "",
+            "secret-words-title-sans-serif": "",
+            "secret-words-description": "",
+            "copy-words-clipboard": "",
+            "generate-recovery-image": "",
+            "animation": {
+                "congrats": "",
+                "serif-title": "",
+                "sans-serif-title": "",
+                "close-button": ""
+            },
+            "account-created": {
+                "account-ready": "",
+                "congrats": "",
+                "visitor": "",
+                "home": ""
+            }
+        },
+        "request-invite-page": {
+            "title-serif": "",
+            "title-sans-serif": "",
+            "description": "",
+            "nickname-placeholder": "",
+            "email-placeholder": "",
+            "story-placeholder": "",
+            "organisation-checkbox": "",
+            "send-request": ""
+        }
+    },
+    "recovery-kit": {
+        "pdf": {
+            "title-serif": "",
+            "title-sans-serif": "",
+            "account-name": "",
+            "private-key": "",
+            "mnemonic": ""
+        },
+        "error": {
+            "title": "",
+            "message": ""
+        },
+        "notification": {
+            "safety_first": "",
+            "generate": "",
+            "recovery": "",
+            "secret_words": "",
+            "generate_kit": "",
+            "skip": ""
+        }
+    },
+    "posts": {
+        "error": {
+            "tags_too_short": ""
+        }
+    },
+    "profile": {
+        "errors": {
+            "tags_too_long": ""
+        }
+    },
+    "comments": {
+        "deleted": "",
+        "view-replies": ""
+    }
+}
