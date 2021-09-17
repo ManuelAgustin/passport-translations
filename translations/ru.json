@@ -4,7 +4,7 @@
         "planted": "Посажено",
         "unplanted": "Возвращено",
         "harvested": "Собрано урожая",
-        "unplanting": "Возвращение",
+        "unplanting": "Возврат",
         "guest": "Гость",
         "visitor": "Посетитель",
         "resident": "Резидент",
@@ -44,7 +44,7 @@
             },
             "deferred": {
                 "short": "Отложенные",
-                "full": "Отложено Seeds"
+                "full": "Отложенный Урожай"
             },
             "required": {
                 "short": "Необходимо",
@@ -59,7 +59,7 @@
     "buttons": {
         "close": "Закрыть",
         "cancel": "Отменить",
-        "retry": "Попробовать снова",
+        "retry": "Повторить",
         "continue": "Продолжить",
         "next": "Далее",
         "finish": "Готово",
@@ -103,11 +103,11 @@
         "invite_members": "Пригласить Участника",
         "vouch_for_member": "Поручиться за Участника",
         "regenerative_path": "Встать на Путь Регенерации",
-        "create_organization_account": "Создать Аккаунт Организаци",
+        "create_organization_account": "Создать Аккаунт Организации",
         "link_account": "Привязать Аккаунт SEEDS",
         "security": "Безопасность",
         "backup_key": "Сохранить Приватный Ключ",
-        "recovery_kit": "Сгенерировать Комплект для восстановления",
+        "recovery_kit": "Сгенерировать Комплект Восстановления",
         "welcome": "Добро пожаловать",
         "sign_out": "Выйти",
         "sign_in": "Войти",
@@ -120,7 +120,7 @@
             "change_account_expanded": "Привязать или сменить аккаунт",
             "unlink_button": {
                 "waiting": "",
-                "unlink": "Отменить",
+                "unlink": "Отвязать",
                 "unlinking": ""
             }
         },
@@ -128,7 +128,7 @@
         "link_account_list": "Привязать Аккаунт Telos"
     },
     "vote": {
-        "byAuthor": "Автор:",
+        "byAuthor": "Автор: {author}",
         "inFavour": "За",
         "inFavourNo": "Поддержали: {no, number}",
         "against": "Против",
@@ -148,25 +148,25 @@
             "rejected": "Не принято"
         },
         "quorum": "Кворум",
-        "trustTokens": "{percent}% trust токенов граждан",
+        "trustTokens": "{percent}% токенов доверия граждан",
         "votesInFavour": "{percent}% голосов в поддержку",
-        "actionTitle": "Создайте предварительное голосование!",
+        "actionTitle": "Создайте предварительное голосование",
         "confirmText": {
             "against": "Я <b>не поддерживаю</b> это предложение",
             "favour": "Я <b>поддерживаю</b> это предложение",
             "abstain": "<b>Воздержаться</b>"
         },
         "widget": {
-            "title": "Trust токенов использовано/доступно",
+            "title": "Токенов доверия использовано/доступно",
             "button": "Голосовать",
             "voted": "Проголосовано",
-            "disclaimer": "Ваши trust токены используются, когда вы выражаете свое мнение (за или против) по каждому предложению. Ваши trust токены не используются, если вы выбрали \"Воздержаться\"."
+            "disclaimer": "Ваши токены доверия используются, когда вы выражаете свое мнение (за или против) по каждому предложению. Ваши trust токены не используются, если вы выбрали \"Воздержаться\"."
         },
         "daysLeft": "{дней, plural, =0 {меньше суток} =1 {остался 1 день} other {# дней}}",
         "endedOn": "Завершено: {days, date, instant}",
         "startsIn": "{дней, plural, =0 {Сегодня} =1 {Завтра} other {Через # days}}",
         "endedLongTimeAgo": "Давно завершилось",
-        "againstPercent": "{no}% проголосовали против",
+        "againstPercent": "Против: {no}%",
         "votesNo": "Проголосовало: {no, number}",
         "voteModeToggle": {
             "quick": "Быстрое Голосование",
@@ -179,10 +179,10 @@
                 "against": "Голосование \"Против\"",
                 "abstain": "Воздержались"
             },
-            "trustTokensPercent": "{percentage}% trust токенов",
-            "trustTokensNotUsed": "Trust токены не будут использованы"
+            "trustTokensPercent": "{percentage}% токенов доверия",
+            "trustTokensNotUsed": "Токены доверия не будут использованы"
         },
-        "inFavourPercent": "{no}% голосов в поддержку"
+        "inFavourPercent": "Поддержали: {no}%"
     },
     "proposal": {
         "type": {
@@ -226,11 +226,11 @@
         "default_description": "Если у вас нет подходящего варианта, подключитесь к Библиотеке Unsplash",
         "error": {
             "general": {
-                "title": "Ошибка загрузки",
+                "title": "Ошибка загрузки!",
                 "description": "При загрузке вашего изображения возникла ошибка. Пожалуйста, попробуйте еще раз."
             },
             "unsupported": {
-                "title": "Неподдерживаемый формат",
+                "title": "Неподдерживаемый формат!",
                 "description": "Вы можете загружать только изображения в формате JPG и PNG"
             }
         }
@@ -352,7 +352,7 @@
             "generate-recovery-image": "Сгенерировать изображение для восстановления",
             "animation": {
                 "congrats": "Ура!",
-                "serif-title": "Теперь ваш статус:",
+                "serif-title": "Теперь ваш статус —",
                 "sans-serif-title": "Посетитель",
                 "close-button": "Закрыть"
             },
@@ -383,7 +383,7 @@
             "mnemonic": "Секретная фраза:"
         },
         "error": {
-            "title": "Ошибка",
+            "title": "Ошибка!",
             "message": "Произошла ошибка при создании комплекта восстановления. Пожалуйста, попробуйте еще раз."
         },
         "notification": {
