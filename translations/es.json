@@ -1,15 +1,15 @@
 {
     "general": {
-        "available": "Disponible",
-        "planted": "",
-        "unplanted": "",
-        "harvested": "",
-        "unplanting": "",
-        "guest": "",
-        "visitor": "",
-        "resident": "",
-        "citizen": "",
-        "organisation": ""
+        "available": "disponible",
+        "planted": "plantado",
+        "unplanted": "desplantado",
+        "harvested": "cosechado",
+        "unplanting": "desplantar",
+        "guest": "invitado",
+        "visitor": "visitante",
+        "resident": "residente",
+        "citizen": "ciudadano",
+        "organisation": "organización"
     },
     "currencies": {
         "seeds": {
